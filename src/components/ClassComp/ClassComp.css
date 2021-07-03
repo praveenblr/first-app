@@ -1,0 +1,15 @@
+.counterApp{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.counterApp button{
+    background-color:brown;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px;
+}
